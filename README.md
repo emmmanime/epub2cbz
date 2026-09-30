@@ -32,4 +32,4 @@ If you build the script with PyInstaller, name the executable `epub2cbz_ja.exe` 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
