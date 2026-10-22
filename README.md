@@ -1,5 +1,7 @@
 # epub2cbz
 
+[English](README.md) | [日本語](README.ja.md)
+
 A hyper-fast, cross-platform CLI tool to convert EPUB files to CBZ format with perfectly sorted reading order. It ensures that your pages are in the exact order intended by the publisher by intelligently parsing the EPUB `spine` and XHTML files, breaking free from the limitations of simple ZIP conversions.
 
 ## Key Features
